@@ -45,7 +45,7 @@ Create a ```database.json``` file in the root of your solution with the format:
 }
 ```
 
-Other, optional, parameters are `authKey` and `ssl`.
+Other, optional, parameters are `authKey`, `ssl`, `password`.
 
 You can also use environment variables or arguments to override.
 
